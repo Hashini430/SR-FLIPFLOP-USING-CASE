@@ -35,6 +35,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 **Procedure**
 
 /* 
+```
 1.Type the program in Quartus software.
 
 2.Compile and run the program.
@@ -44,6 +45,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 4.Create nodes for inputs and outputs to generate the timing diagram.
 
 5.For different input combinations generate the timing diagram.
+```
 
 PROGRAM */
  
