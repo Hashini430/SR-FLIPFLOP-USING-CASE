@@ -52,7 +52,8 @@ PROGRAM */
 
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming.
+/* ```
+Program for flipflops and verify its truth table in quartus using Verilog programming.
 Developed by:HASHINI R
 RegisterNumber:24900728
 module exp6(S,R,c1k,Q,Qbar);
@@ -67,6 +68,7 @@ Q=S|((~R)&Q);
 Qbar=R|((~S)&(Qbar));
 end
 endmodule
+```
 
 */
 
