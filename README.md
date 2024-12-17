@@ -34,7 +34,6 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **Procedure**
 
-/* 
 ```
 1.Type the program in Quartus software.
 
@@ -46,13 +45,10 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 5.For different input combinations generate the timing diagram.
 ```
-
-PROGRAM */
  
 
 **PROGRAM**
-
-/* ```
+ ```
 Program for flipflops and verify its truth table in quartus using Verilog programming.
 Developed by:HASHINI R
 RegisterNumber:24900728
@@ -69,8 +65,6 @@ Qbar=R|((~S)&(Qbar));
 end
 endmodule
 ```
-
-*/
 
 **RTL LOGIC FOR FLIPFLOPS**
 ![Screenshot 2024-12-17 132320](https://github.com/user-attachments/assets/7fe176e3-c70a-48d4-8a1a-f694486cbb25)
